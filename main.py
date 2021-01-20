@@ -4,9 +4,9 @@ import os
 #构建翻译器
 translator = google_translator()
 
-pathEn=r'C:\Users\jungle\Desktop\曾益慧创视频\en'
-pathCn=r'C:\Users\jungle\Desktop\曾益慧创视频\cn'
-pathRstCn=r'C:\Users\jungle\Desktop\曾益慧创视频\rstcn'
+pathEn=r''
+pathCn=r''
+pathRstCn=r''
 
 enFiles=os.listdir(pathEn)
 cnFiles=os.listdir(pathCn)
